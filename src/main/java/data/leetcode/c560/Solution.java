@@ -27,7 +27,7 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-//        System.out.println(new Solution().subarraySum(new int[]{-1,-1,1}, 2));
+//        System.out.println(new Trie().subarraySum(new int[]{-1,-1,1}, 2));
         System.out.println(new Solution().subarraySum(new int[]{3,4,-7,0,-3,1,4,2}, 7));
     }
 }

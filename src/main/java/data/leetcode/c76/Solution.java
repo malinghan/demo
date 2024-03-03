@@ -75,6 +75,6 @@ public class Solution {
 
     public static void main(String[] args) {
         System.out.println(new Solution().minWindow("ADOBECODEBANC", "ABC"));
-//        System.out.println(new Solution().minWindow("A", "B"));
+//        System.out.println(new Trie().minWindow("A", "B"));
     }
 }
