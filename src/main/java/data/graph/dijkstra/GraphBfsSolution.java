@@ -1,4 +1,4 @@
-package data.graph.minpath;
+package data.graph.dijkstra;
 
 import java.util.LinkedList;
 import java.util.Queue;
