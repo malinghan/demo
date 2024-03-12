@@ -5,8 +5,11 @@ import data.leetcode.ListNode;
 /**
  * @author someecho <linghan.ma@gmail.com>
  * Created on 2024-02-27
+ * 归并思想-非递归
+ * 先拆分，再合并，拆分的粒度
  */
 public class Solution {
+
     public ListNode sortList(ListNode head) {
       //1. ListNode split(left, size)
       //2. ListNode merge(left, right, prev)

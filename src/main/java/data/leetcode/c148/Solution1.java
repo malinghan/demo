@@ -5,6 +5,7 @@ import data.leetcode.ListNode;
 /**
  * @author someecho <linghan.ma@gmail.com>
  * Created on 2024-02-28
+ * 归并思想
  */
 public class Solution1 {
 
