@@ -5,4 +5,7 @@
       <map />
     </option>
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="6a515a22-7a38-42ef-8fdf-cc76785c1bb3" />
+  </component>
 </module>
